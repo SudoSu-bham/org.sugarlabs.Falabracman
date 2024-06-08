@@ -2,7 +2,7 @@ diff --git a/activity/activity.info b/activity/activity.info
 index 57a2158..45d2252 100644
 --- a/activity/activity.info
 +++ b/activity/activity.info
-@@ -1,10 +1,18 @@
+@@ -1,10 +1,19 @@
  [Activity]
 -name = falabracman
 +name = Falabracman
@@ -21,5 +21,7 @@ index 57a2158..45d2252 100644
 +developer_name = Sugar Labs Community
 +developer_id = org.sugarlabs
 +tags = Education
-+summary = Sugar activity to learn words.
++url = https://github.com/sugarlabs/falabracman-activity
++summary = Sugar activity to learn words
 +description =  It helps in learning some words, by collecting all the letters in the right order and by avoiding the lake otherwise you will fall into it.
+
